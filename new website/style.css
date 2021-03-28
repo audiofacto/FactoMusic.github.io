@@ -1,0 +1,255 @@
+ @import url('https://fonts.googleapis.com/css2?family=Chango&family=Train+One&display=swap');
+ 
+ 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Roboto:wght@500&display=swap');
+
+ *
+ {
+ 	margin: 0;
+ 	padding: 0;
+ }
+ 
+ @media(max-width: 758px)
+ {
+ 	body
+ 	{
+ 		background:  linear-gradient(57deg, #3BB9FF, red);
+ 		font-family: chango;
+ 	}
+ 	.top-header
+ 	{
+ 		color: white;
+ 		background: #26465E;
+ 		font-size: 25px;
+ 		text-align: center;
+ 	}
+ 	header
+ 	{
+ 		font-family:  chango;
+ 	}
+  a
+ 	{
+ 		text-decoration: none;
+ 		color: white;
+ 		font-size: 20px;
+ 		letter-spacing: 2px;
+ 		border: 1px solid red;
+ 		padding: 5px 10px;
+ 		border-radius: 20px;
+ 		box-shadow: 0 0 3px red;
+ 		font-family: roboto;
+
+
+ 		
+
+ 		 
+ 	}
+ 	.english
+ 	{
+ 		background: red;
+ 		color: white;
+ 		text-shadow: 0  0 2px yellow;
+ 	}
+ 	.links
+ 	{
+ 		text-align: center;
+ 		word-spacing: 20px;
+ 		 
+ 	 
+
+
+ 	}
+
+  
+ 
+ 	 
+ 	.faded, .fake-a-smile, .sing-me-to-sleep, .hold-on, .darkside, .on-my-way, .let-me-love-you
+ 	{
+ 		 background:none;
+ 		 width: 350px;
+ 		 padding: 5px 10px;
+ 		 border: 1px solid white;
+ 		 border-radius: 20px;
+
+
+
+ 	}
+
+
+ 	.on-my-way img
+ 	{
+ 		border-right: 10px;
+ 		font-family: verdana;
+ 	}
+ 	.fake-a-smile img
+ 	{
+ 		border-right: 10px;
+ 		font-family: verdana;
+ 	}
+
+ 	.darkside  img
+ 	{
+ 		border-right: 10px;
+ 		font-family: verdana;
+ 	}
+
+ 	audio
+ 	{
+ 		width: 250px;
+ 	}
+ 	.download-btn 
+ 	{
+ 		border: none;
+ 		box-shadow: none;
+ 		color: red;
+ 	}
+
+ 	.hold-on img
+ 	{
+ 		 height: 158px;
+ 		 width: 300px;
+ 	}
+ 		.sing-me-to-sleep img
+ 	{
+ 		 height: 158px;
+ 		 width: 300px;
+ 	}
+
+ 	.let-me-love-you img
+ 	{
+ 		 height: 158px;
+ 		 width: 300px;
+ 	}
+ 	 
+ 	 
+ 
+
+
+
+  
+ }
+
+ @media (min-width: 1024px)
+ {
+ 	body
+ 	{
+ 		background:  linear-gradient(57deg, #3BB9FF, red);
+ 		font-family:  chango;
+ 	}
+ 	.top-header
+ 	{
+ 		color: white;
+ 		background: #26465E;
+ 		font-size: 45px;
+ 		text-align: center;
+ 		 
+
+ 	}
+ 	header
+ 	{
+ 		font-family:  chango;
+
+
+ 	}
+
+
+  
+  a
+ 	{
+ 		text-decoration: none;
+ 		color: white;
+ 		font-size: 20px;
+ 		letter-spacing: 2px;
+ 		border: 1px solid red;
+ 		padding: 5px 10px;
+ 		border-radius: 20px;
+ 		box-shadow: 0 0 3px red;
+ 		font-family: roboto;
+
+
+
+
+ 		
+
+ 		 
+ 	}
+ 	.english
+ 	{
+ 		background: red;
+ 		color: white;
+ 		text-shadow: 0  0 2px yellow;
+ 	}
+ 	.links
+ 	{
+ 		text-align: center;
+ 		word-spacing: 20px;
+ 		 
+ 	 
+
+
+ 	}
+
+  
+ 
+ 	 
+ 	.faded, .fake-a-smile, .sing-me-to-sleep, .hold-on, .darkside, .on-my-way, .let-me-love-you
+ 	{
+ 		 background:none;
+ 		 width: 350px;
+ 		 padding: 5px 10px;
+ 		 border: 1px solid white;
+ 		 border-radius: 20px;
+
+
+
+ 	}
+
+
+ 	.on-my-way img
+ 	{
+ 		border-right: 10px;
+ 		font-family: verdana;
+ 	}
+ 	.fake-a-smile img
+ 	{
+ 		border-right: 10px;
+ 		font-family: verdana;
+ 	}
+
+ 	.darkside  img
+ 	{
+ 		border-right: 10px;
+ 		font-family: verdana;
+ 	}
+
+ 	audio
+ 	{
+ 		width: 250px;
+ 	}
+ 	.download-btn 
+ 	{
+ 		border: none;
+ 		box-shadow: none;
+ 		color: red;
+ 	}
+
+ 	.hold-on img
+ 	{
+ 		 height: 158px;
+ 		 width: 300px;
+ 	}
+ 		.sing-me-to-sleep img
+ 	{
+ 		 height: 158px;
+ 		 width: 300px;
+ 	}
+
+ 	.let-me-love-you img
+ 	{
+ 		 height: 158px;
+ 		 width: 300px;
+ 	}
+ 	 
+ }
